@@ -1,0 +1,12 @@
+[submodule "resources_orchester"]
+	path = resources_orchester
+	url = https://github.com/AgustinRT/resources_orchester
+[submodule "initial_mcp"]
+	path = initial_mcp
+	url = https://github.com/AgustinRT/initial_mcp
+[submodule "consumer_ms"]
+	path = consumer_ms
+	url = https://github.com/AgustinRT/consumer_ms
+[submodule "producer_ms"]
+	path = producer_ms
+	url = https://github.com/AgustinRT/producer_ms
