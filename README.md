@@ -14,6 +14,6 @@ The solution employs a multi-repository pattern. The primary repository function
 
 ## Location of documentation for each type of repository
 
-Logic manage: https://github.com/AgustinRT/resources_orchester/blob/a1b0d942caea77870b13d43a715181a11024adf6/README.md
+Logic manage: https://github.com/AgustinRT/resources_orchester
 
-MCP type 1: https://github.com/AgustinRT/initial_mcp/blob/2bb62dd04e43c28dadd105203b628d28fdeda7ef/README.md
+MCP type 1: https://github.com/AgustinRT/initial_mcp
