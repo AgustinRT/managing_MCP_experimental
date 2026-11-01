@@ -13,5 +13,7 @@ The solution employs a multi-repository pattern. The primary repository function
 *   **Testing:** [Testcontainers](https://testcontainers.com/) for integration testing with real Dockerized instances of Kafka.
 
 ## Location of documentation for each type of repository
+
 Logic manage: https://github.com/AgustinRT/resources_orchester/blob/main/README.md
+
 MCP type 1: https://github.com/AgustinRT/initial_mcp/blob/main/README.md
